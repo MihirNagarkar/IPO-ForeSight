@@ -108,6 +108,6 @@ python run_app.py
 - **Multi-Document Support:** Extend the system to analyze additional regulatory and compliance documents beyond DRHP.  
 
 
-**Author:** [Suyog Kshirsagar](https://www.google.com/search?q=https://github.com/SuyogKshirsagar)
+**Authors:** [Suyog Kshirsagar](https://www.google.com/search?q=https://github.com/SuyogKshirsagar) and [Mihir Nagarkar](https://www.google.com/search?q=https://github.com/MihirNagarkar)
 
 *Note: This project is intended for academic and learning purposes.*
